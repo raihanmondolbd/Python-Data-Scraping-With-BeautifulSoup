@@ -20,4 +20,4 @@ for genre in genres:
     sheet.append([genre_name, genre_link])
 
 
-excel.save('../IMDB/IMDB Genre List.xlsx')
+excel.save('../Excel/IMDB/IMDB Genre List.xlsx')
